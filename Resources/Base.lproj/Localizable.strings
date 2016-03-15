@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  FlashStudy
+
+  Created by Lorenzo Piccoli on 03/11/13.
+  Copyright (c) 2013 LorenzoPiccoli. All rights reserved.
+*/
+
+"Would you like to add more cards?" = "Would you like to add more cards?";
+"Yes" = "Yes";
+"No" = "No";
+"Congratulations" = "Congratulations";
+"Cancel" = "Cancel";
+"More" = "More";
+"You checked all cards!" = "You checked all cards!";
+"%d%% complete" = "%d%% complete";
+" I'm learning with flashcards, check this app: " = " I'm learning with flashcards, check this app: ";
+"Edit" = "Edit";

@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  FlashStudy
+
+  Created by Lorenzo Piccoli on 03/11/13.
+  Copyright (c) 2013 LorenzoPiccoli. All rights reserved.
+*/
+
+"Would you like to add more cards?" = "Adicionar mais cartões?";
+"Yes" = "Sim";
+"No" = "Não";
+"More" = "Mais";
+"Cancel" = "Cancelar";
+"Question" = "Pergunta";
+"Answer" = "Resposta";
+"Congratulations" = "Parabéns";
+"Shuffle" = "Embaralhar";
+"Swap the cards' side" = "Trocar os lados dos cartões";
+"You checked all cards!" = "Você marcou todos os cartões!";
+"%d%% complete" = "%d%% completo";
+" I'm learning with flashcards, check this app: " = " Estou aprendendo usando flashcards, olha esse app: ";
+"Edit" = "Editar";

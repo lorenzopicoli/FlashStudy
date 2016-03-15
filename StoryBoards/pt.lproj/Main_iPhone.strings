@@ -1,0 +1,36 @@
+
+/* Class = "IBUINavigationItem"; title = "Decks"; ObjectID = "3J5-os-bnG"; */
+"3J5-os-bnG.title" = "Decks";
+
+/* Class = "IBUINavigationItem"; title = "New Deck"; ObjectID = "4BK-Dr-kaJ"; */
+"4BK-Dr-kaJ.title" = "Novo Deck";
+
+/* Class = "IBUILabel"; text = "Answer"; ObjectID = "5bE-gS-Ijc"; */
+"5bE-gS-Ijc.text" = "Resposta";
+
+/* Class = "IBUINavigationItem"; title = "New Card"; ObjectID = "Ipf-aC-jMD"; */
+"Ipf-aC-jMD.title" = "Novo Cartão";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "Nyf-60-cWY"; */
+"Nyf-60-cWY.text" = "Nome";
+
+/* Class = "IBUIButton"; normalTitle = "Back"; ObjectID = "RUG-Ew-tbh"; */
+"RUG-Ew-tbh.normalTitle" = "Anterior";
+
+/* Class = "IBUILabel"; text = "Question"; ObjectID = "WDk-IO-EMc"; */
+"WDk-IO-EMc.text" = "Pergunta";
+
+/* Class = "IBUINavigationItem"; title = "Cards"; ObjectID = "ZSl-tC-yTS"; */
+"ZSl-tC-yTS.title" = "Cartões";
+
+/* Class = "IBUILabel"; text = "Show checked cards"; ObjectID = "sii-27-m0q"; */
+"sii-27-m0q.text" = "Mostrar cartas marcadas";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "stf-gl-HOh"; */
+"stf-gl-HOh.normalTitle" = "Próximo";
+
+/* Class = "IBUILabel"; text = "Font size"; ObjectID = "7rQ-q1-AI4"; */
+"7rQ-q1-AI4.text" = "Fonte";
+
+/* Class = "IBUILabel"; text = "Font size"; ObjectID = "fsb-Yp-ACi"; */
+"fsb-Yp-ACi.text" = "Exemplo";
