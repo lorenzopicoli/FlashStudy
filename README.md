@@ -1,6 +1,6 @@
 ### This app is not being updated anymore
 
-FlashStudy
+Flash Study
 ==========
 
 Flash Study is an easy to use flashcard app. It allows you to create decks and cards without any distraction like: ads and tons of features you'll never use.
